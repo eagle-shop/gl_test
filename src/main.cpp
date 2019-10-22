@@ -1,5 +1,5 @@
 #include <iostream>
-#include "sub.h"
+#include "mywindow.h"
 
 int main(){
     std::cout << "main" << std::endl;
