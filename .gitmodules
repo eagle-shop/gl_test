@@ -2,3 +2,6 @@
     path = dependencies/glfw
     url = https://github.com/glfw/glfw
     branch = 3.3-stable
+[submodule "dependencies/freetype2"]
+    path = dependencies/freetype2
+    url = https://git.savannah.gnu.org/git/freetype/freetype2.git

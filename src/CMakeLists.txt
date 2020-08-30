@@ -26,3 +26,4 @@ if(WIN32)
 endif()
 
 target_link_libraries(gl_test glfw)
+target_link_libraries(gl_test freetype)
